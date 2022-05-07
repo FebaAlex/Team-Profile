@@ -41,3 +41,13 @@ THEN I am prompted to enter the intern’s name, ID, email, and school, and I am
 WHEN I decide to finish building my team
 
 THEN I exit the application, and the HTML is generated
+
+# Links 
+
+https://github.com/FebaAlex/Team-Profile.git
+
+https://febaalex.github.io/Team-Profile/
+
+# Landing Page
+
+![Image 5-7-22 at 2 08 PM](https://user-images.githubusercontent.com/98286810/167271787-e1d16ac4-16ac-47fe-9cb8-d2239a00e442.jpg)
